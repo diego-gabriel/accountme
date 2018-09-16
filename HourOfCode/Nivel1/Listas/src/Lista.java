@@ -1,0 +1,11 @@
+
+public interface Lista <T>{
+	
+	public void add(T obj);
+	public T get(int index);
+	public int size();
+	public void insert(int index, T obj);
+	public void erase(int index);
+	public boolean isEmpty();
+
+}

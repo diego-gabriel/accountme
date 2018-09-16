@@ -1,0 +1,28 @@
+import java.math.BigInteger;
+import java.util.Scanner;
+
+
+public class Labelmaker {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		Scanner scan = new Scanner(System.in);
+		
+		int nTest = scan.nextInt();
+		scan.nextLine();
+		
+		for (int test = 1; test <= nTest; test++)
+		{
+			String cad = scan.nextLine();
+			String[] arr = cad.split(" ");
+			
+			String alf = arr[0];
+			BigInteger num = new BigInteger(arr[1]);
+		}
+
+	}
+
+}

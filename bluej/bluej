@@ -1,0 +1,5 @@
+#!/bin/sh
+APPBASE="/home/diego-gabriel/Documentos/Codigo/bluej"
+JAVAPATH="/usr/lib/jvm/java-7-oracle"
+CP="$APPBASE/lib/bluej.jar:$JAVAPATH/lib/tools.jar"
+"$JAVAPATH/bin/java" -Dawt.useSystemAAFontSettings=on -cp "$CP" bluej.Boot  "$@"

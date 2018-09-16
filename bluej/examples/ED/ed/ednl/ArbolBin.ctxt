@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ArbolBin()
+comment0.text=\r\n\ Construye\ un\ arbol\ binario\ vacio\r\n
+comment1.params=nr\ ni\ nd
+comment1.target=ArbolBin(java.lang.Object,\ ArbolBin,\ ArbolBin)
+comment1.text=\r\n\ Construye\ un\ arbol\ binario\ no\ vacio\r\n\ @param\ nr\ que\ es\ la\ raiz\ del\ arbol\ no\ puede\ ser\ null\r\n\ @param\ ni\ es\ la\ desc\ izq\ del\ arbol\ no\ puede\ ser\ null\r\n\ @param\ nd\ es\ la\ desc\ der\ del\ arbol\ no\ puede\ ser\ null\r\n
+comment2.params=
+comment2.target=boolean\ vacia()
+comment3.params=dato
+comment3.target=java.lang.Object\ buscar(java.lang.Object)
+comment3.text=\r\n\ Permite\ buscar\ un\ dato\ en\ el\ arbol,\ y\ devuelve\r\n\ el\ dato\ si\ lo\ ha\ encontrado\r\n\ @param\ dato\ es\ el\ dato\ a\ buscar\r\n\ @return\ el\ dato\ encontrado,\ null\ si\ no\ existe\r\n
+comment4.params=
+comment4.target=int\ nroHojas()
+comment5.params=
+comment5.target=int\ nroNodos()
+comment6.params=
+comment6.target=int\ altura()
+comment7.params=dato
+comment7.target=int\ nivelDe(java.lang.Object)
+numComments=8

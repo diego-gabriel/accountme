@@ -1,0 +1,15 @@
+import java.util.LinkedList;
+
+public class Prueba {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+
+		LinkedList<Integer> array = new LinkedList<Integer>();
+		
+		array.add(0, 1);
+	}
+
+}

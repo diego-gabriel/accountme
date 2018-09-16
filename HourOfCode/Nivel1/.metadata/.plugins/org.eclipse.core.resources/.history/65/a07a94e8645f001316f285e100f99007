@@ -1,0 +1,10 @@
+
+public class ArrayValue<T> {
+	private T value;
+	
+	public ArrayValue()
+	{
+		value = null;
+	}
+
+}

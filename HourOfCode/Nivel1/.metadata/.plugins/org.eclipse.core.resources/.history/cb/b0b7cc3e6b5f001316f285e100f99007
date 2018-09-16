@@ -1,0 +1,46 @@
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+
+public class ArrayListTest {
+
+	@Test
+	public void test() {
+		ArrayList<Integer> array = new ArrayList<Integer>();
+		
+		array.add(1);
+		assertEquals(1, array.size());
+
+		array.add(4);
+		assertEquals(2, array.size());
+
+		array.add(5);
+		assertEquals(3, array.size());
+		
+		int res = array.get(1);
+		assertEquals(4, res);
+		
+		array.insert(1, 3);
+		array.insert(1, 2);
+		
+		res = array.get(0);
+		assertEquals(1, res);		
+		res = array.get(1);
+		assertEquals(2, res);		
+		res = array.get(2);
+		assertEquals(3, res);		
+		res = array.get(3);
+		assertEquals(4, res);		
+		res = array.get(4);
+		assertEquals(5, res);
+		
+		array.erase(0);
+		
+		//res = array.get(1);
+		assertEquals(2, res);
+	
+		
+	}
+
+}

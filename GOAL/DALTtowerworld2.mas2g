@@ -1,0 +1,12 @@
+environment{
+	env = "towerenv.jar" .
+}
+
+agentfiles{
+	"DALTtowerbuilder2.goal" [name = builder] .
+}
+
+launchpolicy{
+	when entity@env do launch towerBuilder : builder .
+}
+

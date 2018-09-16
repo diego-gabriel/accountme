@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+
+public class Labelmaker {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		Scanner scan = new Scanner(System.in);
+		
+		int nTest = scan.nextInt();
+		
+		for (int test = 1; test <= nTest; test++)
+		{
+			String cad = scan.nextLine();
+			System.out.println(cad);
+		}
+
+	}
+
+}

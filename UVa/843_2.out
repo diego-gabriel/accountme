@@ -1,0 +1,477 @@
+palabras de longitud 1:
+Posibilidades de a:
+Posibilidades de b:
+Posibilidades de c:
+Posibilidades de d:
+Posibilidades de e:
+Posibilidades de f:
+Posibilidades de g:
+Posibilidades de h:
+Posibilidades de i:
+Posibilidades de j:
+Posibilidades de k:
+Posibilidades de l:
+Posibilidades de m:
+Posibilidades de n:
+Posibilidades de o:
+Posibilidades de p:
+Posibilidades de q:
+Posibilidades de r:
+Posibilidades de s:
+Posibilidades de t:
+Posibilidades de u:
+Posibilidades de v:
+Posibilidades de w:
+Posibilidades de x:
+Posibilidades de y:
+    Complejidad parcial: O(1)
+palabras de longitud 2:
+Posibilidades de a:
+Posibilidades de b:
+Posibilidades de c:
+Posibilidades de d:
+Posibilidades de e:
+Posibilidades de f:
+Posibilidades de g:
+Posibilidades de h:
+Posibilidades de i:
+Posibilidades de j:
+Posibilidades de k:
+Posibilidades de l:
+Posibilidades de m:
+Posibilidades de n:
+Posibilidades de o:
+Posibilidades de p:
+Posibilidades de q:
+Posibilidades de r:
+Posibilidades de s:
+Posibilidades de t:
+Posibilidades de u:
+Posibilidades de v:
+Posibilidades de w:
+Posibilidades de x:
+Posibilidades de y:
+    Complejidad parcial: O(1)
+palabras de longitud 3:
+Posibilidades de a:
+Posibilidades de b:
+d
+Posibilidades de c:
+Posibilidades de d:
+Posibilidades de e:
+Posibilidades de f:
+Posibilidades de g:
+Posibilidades de h:
+Posibilidades de i:
+Posibilidades de j:
+Posibilidades de k:
+Posibilidades de l:
+Posibilidades de m:
+Posibilidades de n:
+Posibilidades de o:
+Posibilidades de p:
+Posibilidades de q:
+Posibilidades de r:
+Posibilidades de s:
+n
+Posibilidades de t:
+Posibilidades de u:
+Posibilidades de v:
+Posibilidades de w:
+Posibilidades de x:
+a
+Posibilidades de y:
+    Complejidad parcial: O(1)
+palabras de longitud 4:
+Posibilidades de a:
+c
+o
+Posibilidades de b:
+j
+s
+Posibilidades de c:
+Posibilidades de d:
+Posibilidades de e:
+Posibilidades de f:
+Posibilidades de g:
+k
+t
+Posibilidades de h:
+j
+s
+Posibilidades de i:
+Posibilidades de j:
+i
+u
+Posibilidades de k:
+Posibilidades de l:
+Posibilidades de m:
+c
+f
+k
+o
+t
+Posibilidades de n:
+e
+k
+t
+Posibilidades de o:
+Posibilidades de p:
+Posibilidades de q:
+i
+j
+p
+s
+u
+Posibilidades de r:
+j
+s
+Posibilidades de s:
+c
+o
+Posibilidades de t:
+k
+t
+Posibilidades de u:
+Posibilidades de v:
+c
+o
+Posibilidades de w:
+Posibilidades de x:
+i
+p
+u
+Posibilidades de y:
+i
+u
+    Complejidad parcial: O(230400)
+palabras de longitud 5:
+Posibilidades de a:
+Posibilidades de b:
+Posibilidades de c:
+Posibilidades de d:
+Posibilidades de e:
+Posibilidades de f:
+Posibilidades de g:
+Posibilidades de h:
+Posibilidades de i:
+Posibilidades de j:
+Posibilidades de k:
+Posibilidades de l:
+Posibilidades de m:
+Posibilidades de n:
+Posibilidades de o:
+Posibilidades de p:
+Posibilidades de q:
+Posibilidades de r:
+Posibilidades de s:
+Posibilidades de t:
+Posibilidades de u:
+Posibilidades de v:
+Posibilidades de w:
+Posibilidades de x:
+Posibilidades de y:
+    Complejidad parcial: O(1)
+palabras de longitud 6:
+Posibilidades de a:
+Posibilidades de b:
+Posibilidades de c:
+Posibilidades de d:
+Posibilidades de e:
+r
+Posibilidades de f:
+l
+Posibilidades de g:
+Posibilidades de h:
+Posibilidades de i:
+Posibilidades de j:
+Posibilidades de k:
+Posibilidades de l:
+Posibilidades de m:
+Posibilidades de n:
+e
+Posibilidades de o:
+Posibilidades de p:
+y
+Posibilidades de q:
+Posibilidades de r:
+Posibilidades de s:
+Posibilidades de t:
+t
+Posibilidades de u:
+Posibilidades de v:
+Posibilidades de w:
+Posibilidades de x:
+Posibilidades de y:
+    Complejidad parcial: O(1)
+palabras de longitud 7:
+Posibilidades de a:
+Posibilidades de b:
+Posibilidades de c:
+Posibilidades de d:
+Posibilidades de e:
+Posibilidades de f:
+Posibilidades de g:
+Posibilidades de h:
+Posibilidades de i:
+Posibilidades de j:
+Posibilidades de k:
+Posibilidades de l:
+Posibilidades de m:
+Posibilidades de n:
+Posibilidades de o:
+Posibilidades de p:
+Posibilidades de q:
+Posibilidades de r:
+Posibilidades de s:
+Posibilidades de t:
+Posibilidades de u:
+Posibilidades de v:
+Posibilidades de w:
+Posibilidades de x:
+Posibilidades de y:
+    Complejidad parcial: O(1)
+palabras de longitud 8:
+Posibilidades de a:
+Posibilidades de b:
+Posibilidades de c:
+Posibilidades de d:
+Posibilidades de e:
+Posibilidades de f:
+Posibilidades de g:
+Posibilidades de h:
+Posibilidades de i:
+Posibilidades de j:
+Posibilidades de k:
+Posibilidades de l:
+Posibilidades de m:
+Posibilidades de n:
+Posibilidades de o:
+Posibilidades de p:
+Posibilidades de q:
+Posibilidades de r:
+Posibilidades de s:
+Posibilidades de t:
+Posibilidades de u:
+Posibilidades de v:
+Posibilidades de w:
+Posibilidades de x:
+Posibilidades de y:
+    Complejidad parcial: O(1)
+palabras de longitud 9:
+Posibilidades de a:
+Posibilidades de b:
+Posibilidades de c:
+Posibilidades de d:
+Posibilidades de e:
+Posibilidades de f:
+Posibilidades de g:
+Posibilidades de h:
+Posibilidades de i:
+Posibilidades de j:
+Posibilidades de k:
+Posibilidades de l:
+Posibilidades de m:
+Posibilidades de n:
+Posibilidades de o:
+Posibilidades de p:
+Posibilidades de q:
+Posibilidades de r:
+Posibilidades de s:
+Posibilidades de t:
+Posibilidades de u:
+Posibilidades de v:
+Posibilidades de w:
+Posibilidades de x:
+Posibilidades de y:
+    Complejidad parcial: O(1)
+palabras de longitud 10:
+Posibilidades de a:
+Posibilidades de b:
+Posibilidades de c:
+Posibilidades de d:
+Posibilidades de e:
+Posibilidades de f:
+Posibilidades de g:
+Posibilidades de h:
+Posibilidades de i:
+Posibilidades de j:
+Posibilidades de k:
+Posibilidades de l:
+Posibilidades de m:
+Posibilidades de n:
+Posibilidades de o:
+Posibilidades de p:
+Posibilidades de q:
+Posibilidades de r:
+Posibilidades de s:
+Posibilidades de t:
+Posibilidades de u:
+Posibilidades de v:
+Posibilidades de w:
+Posibilidades de x:
+Posibilidades de y:
+    Complejidad parcial: O(1)
+palabras de longitud 11:
+Posibilidades de a:
+Posibilidades de b:
+Posibilidades de c:
+Posibilidades de d:
+Posibilidades de e:
+Posibilidades de f:
+Posibilidades de g:
+Posibilidades de h:
+Posibilidades de i:
+Posibilidades de j:
+Posibilidades de k:
+Posibilidades de l:
+Posibilidades de m:
+Posibilidades de n:
+Posibilidades de o:
+Posibilidades de p:
+Posibilidades de q:
+Posibilidades de r:
+Posibilidades de s:
+Posibilidades de t:
+Posibilidades de u:
+Posibilidades de v:
+Posibilidades de w:
+Posibilidades de x:
+Posibilidades de y:
+    Complejidad parcial: O(1)
+palabras de longitud 12:
+Posibilidades de a:
+Posibilidades de b:
+Posibilidades de c:
+Posibilidades de d:
+Posibilidades de e:
+Posibilidades de f:
+Posibilidades de g:
+Posibilidades de h:
+Posibilidades de i:
+Posibilidades de j:
+Posibilidades de k:
+Posibilidades de l:
+Posibilidades de m:
+Posibilidades de n:
+Posibilidades de o:
+Posibilidades de p:
+Posibilidades de q:
+Posibilidades de r:
+Posibilidades de s:
+Posibilidades de t:
+Posibilidades de u:
+Posibilidades de v:
+Posibilidades de w:
+Posibilidades de x:
+Posibilidades de y:
+    Complejidad parcial: O(1)
+palabras de longitud 13:
+Posibilidades de a:
+Posibilidades de b:
+Posibilidades de c:
+Posibilidades de d:
+Posibilidades de e:
+Posibilidades de f:
+Posibilidades de g:
+Posibilidades de h:
+Posibilidades de i:
+Posibilidades de j:
+Posibilidades de k:
+Posibilidades de l:
+Posibilidades de m:
+Posibilidades de n:
+Posibilidades de o:
+Posibilidades de p:
+Posibilidades de q:
+Posibilidades de r:
+Posibilidades de s:
+Posibilidades de t:
+Posibilidades de u:
+Posibilidades de v:
+Posibilidades de w:
+Posibilidades de x:
+Posibilidades de y:
+    Complejidad parcial: O(1)
+palabras de longitud 14:
+Posibilidades de a:
+Posibilidades de b:
+Posibilidades de c:
+Posibilidades de d:
+Posibilidades de e:
+Posibilidades de f:
+Posibilidades de g:
+Posibilidades de h:
+Posibilidades de i:
+Posibilidades de j:
+Posibilidades de k:
+Posibilidades de l:
+Posibilidades de m:
+Posibilidades de n:
+Posibilidades de o:
+Posibilidades de p:
+Posibilidades de q:
+Posibilidades de r:
+Posibilidades de s:
+Posibilidades de t:
+Posibilidades de u:
+Posibilidades de v:
+Posibilidades de w:
+Posibilidades de x:
+Posibilidades de y:
+    Complejidad parcial: O(1)
+palabras de longitud 15:
+Posibilidades de a:
+Posibilidades de b:
+Posibilidades de c:
+Posibilidades de d:
+Posibilidades de e:
+Posibilidades de f:
+Posibilidades de g:
+Posibilidades de h:
+Posibilidades de i:
+Posibilidades de j:
+Posibilidades de k:
+Posibilidades de l:
+Posibilidades de m:
+Posibilidades de n:
+Posibilidades de o:
+Posibilidades de p:
+Posibilidades de q:
+Posibilidades de r:
+Posibilidades de s:
+Posibilidades de t:
+Posibilidades de u:
+Posibilidades de v:
+Posibilidades de w:
+Posibilidades de x:
+Posibilidades de y:
+    Complejidad parcial: O(1)
+palabras de longitud 16:
+Posibilidades de a:
+Posibilidades de b:
+Posibilidades de c:
+Posibilidades de d:
+Posibilidades de e:
+Posibilidades de f:
+Posibilidades de g:
+Posibilidades de h:
+Posibilidades de i:
+Posibilidades de j:
+Posibilidades de k:
+Posibilidades de l:
+Posibilidades de m:
+Posibilidades de n:
+Posibilidades de o:
+Posibilidades de p:
+Posibilidades de q:
+Posibilidades de r:
+Posibilidades de s:
+Posibilidades de t:
+Posibilidades de u:
+Posibilidades de v:
+Posibilidades de w:
+Posibilidades de x:
+Posibilidades de y:
+    Complejidad parcial: O(1)
+Complejidad: O(230415)

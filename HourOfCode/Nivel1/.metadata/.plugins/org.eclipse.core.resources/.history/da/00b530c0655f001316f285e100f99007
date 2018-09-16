@@ -1,0 +1,26 @@
+
+public class ArrayList<T> implements Lista<T>{
+	
+	private Object[] lista;
+	
+	public ArrayList()
+	{
+		lista = new Object[10];
+	}
+	
+	public void add(T obj) {
+		
+	}
+	
+	public T get(int i) {
+		@SuppressWarnings("unchecked")
+		T res = (T) lista[i];
+		return res;
+	}
+	public int size() {
+		
+		return 0;
+	}
+	
+
+}

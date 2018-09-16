@@ -1,0 +1,9 @@
+
+public interface Lista <T>{
+	
+	public void add(T obj);
+	public T get(int i);
+	public int size();
+	
+
+}

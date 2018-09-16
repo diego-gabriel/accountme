@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ListaCDE()
+comment1.params=dato
+comment1.target=void\ insertar(java.lang.Object)
+comment10.params=otra
+comment10.target=void\ unir(Lista)
+comment2.params=pos
+comment2.target=java.lang.Object\ eliminar(int)
+comment3.params=q\ pos
+comment3.target=NodoDE\ buscarNodoEn(NodoDE,\ int)
+comment4.params=pos
+comment4.target=java.lang.Object\ acceder(int)
+comment5.params=
+comment5.target=boolean\ vacia()
+comment6.params=
+comment6.target=int\ longitud()
+comment7.params=q
+comment7.target=int\ contarNodos(NodoDE)
+comment8.params=dato
+comment8.target=java.lang.Object\ ant(java.lang.Object)
+comment9.params=dato
+comment9.target=java.lang.Object\ suc(java.lang.Object)
+numComments=11

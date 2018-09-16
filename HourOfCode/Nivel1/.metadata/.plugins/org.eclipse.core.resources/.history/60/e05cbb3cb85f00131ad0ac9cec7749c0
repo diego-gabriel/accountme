@@ -1,0 +1,26 @@
+
+public class LinkedList <T> implements Lista <T>{
+	
+	private Nodo<T> valor;
+	
+	public LinkedList()
+	{
+		valor = null;
+	}
+	
+	public void add(T obj)
+	{
+		pAdd(valor, obj);
+	}
+	
+	private pAdd(Node <T> nodo, T obj)
+	{
+		if (nodo.isEmpty())
+			nodo.add(obj);
+		else
+			pAdd(nodo.getSig(), obj);
+	}
+	
+	
+
+}

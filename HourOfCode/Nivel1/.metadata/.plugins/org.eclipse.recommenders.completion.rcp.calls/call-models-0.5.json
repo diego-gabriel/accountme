@@ -1,0 +1,12 @@
+{
+  "/home/diego-gabriel/Documentos/Codigo/HourOfCode/Nivel1/Listas/src": {
+    "location": "/home/diego-gabriel/Documentos/Codigo/HourOfCode/Nivel1/Listas/src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/home/diego-gabriel/Documentos/Codigo/HourOfCode/Nivel1/Listas/src\u0027. Skipped."
+  },
+  "/usr/lib/jvm/java-7-oracle/jre/lib/rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "/usr/lib/jvm/java-7-oracle/jre/lib/rt.jar",
+    "status": "RESOLVED"
+  }
+}

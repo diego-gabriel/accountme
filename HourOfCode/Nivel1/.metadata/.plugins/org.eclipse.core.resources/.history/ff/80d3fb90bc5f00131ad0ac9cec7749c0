@@ -1,0 +1,15 @@
+import java.util.ArrayList;
+
+public class Prueba {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+
+		ArrayList<Integer> array = new ArrayList<Integer>();
+		
+		array.insert(0, 1);
+	}
+
+}

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cola()
+comment1.params=
+comment1.target=boolean\ vacia()
+comment2.params=dato
+comment2.target=void\ encolar(java.lang.Object)
+comment2.text=\r\n\ Metodo\ que\ permite\ ingresar\ un\ dato\ al\ final\ de\ la\ cola\r\n\ @param\ dato\ dato\ a\ ingresar\ en\ la\ cola\r\n\ @return\ cambio\ de\ estado\ en\ la\ cola\r\n
+comment3.params=
+comment3.target=java.lang.Object\ decolar()
+comment3.text=\r\n\ Metodo\ que\ permite\ eliminar\ un\ elemento\ de\ la\ cola\r\n\ por\ defecto\ lo\ hace\ de\ la\ referencia\ frente\r\n\ @param\ nada\r\n\ @return\ el\ dato\ del\ frente\ de\ la\ cola\r\n
+comment4.params=
+comment4.target=java.lang.Object\ ver()
+comment4.text=\r\n\ Metodo\ me\ ermite\ acceder\ al\ elemento\ del\ frente\ de\ la\ cola\r\n\ @param\ nada\r\n\ @return\ el\ dato\ del\ frente\ de\ la\ cola\r\n
+numComments=5

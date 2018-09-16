@@ -1,0 +1,21 @@
+{
+	"manifest_version": 2,
+	"name": "JardinesSync",
+	"description": "Sync Jardines Reservation API with Booking.com",
+	"version": "1.0",
+	"browser_action": {
+		"default_icon": "icon.png",
+		"default_title": "Sincronizar reservas",
+		"default_popup": "popup.html"
+	},
+	"permissions": [
+		"activeTab"
+	],
+	"content_scripts": [
+		{
+			"matches": ["https://admin.booking.com/hotel/hoteladmin/extranet_ng/manage/search_reservations.html*"],
+			"js": ["content/retrieve_reservations.js", "jquery-3.2.1.min.js"],
+			"css": ["content/sync.css"]
+		}
+	]
+}

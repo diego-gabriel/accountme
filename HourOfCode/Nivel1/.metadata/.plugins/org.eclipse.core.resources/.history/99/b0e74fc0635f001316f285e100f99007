@@ -1,0 +1,25 @@
+
+public class ArrayList<T> implements Lista<T>{
+	
+	private ArrayValue<T>[] lista;
+	
+	public ArrayList()
+	{
+		lista = new ArrayValue<T>[10];
+	}
+	
+	public void add(T obj) {
+		
+	}
+	
+	public T get(int i) {
+	
+		return null;
+	}
+	public int size() {
+		
+		return 0;
+	}
+	
+
+}

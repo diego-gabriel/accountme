@@ -1,0 +1,41 @@
+
+public class ArrayList<T> implements Lista<T>{
+	
+	private final int D_SIZE = 5;
+	private Object[] lista;
+	private int actIndex;
+	
+	public ArrayList()
+	{
+		lista = new Object[D_SIZE];
+		actIndex = 0;
+	}
+	
+	public void add(T obj) {
+		if (actIndex == lista.length)
+			resize();
+		lista[++actIndex] = obj;
+	}
+	
+	public T get(int i) {
+		@SuppressWarnings("unchecked")
+		T res = (T) lista[i];
+		return res;
+	}
+	public int size() {
+		
+		return lista.length;
+	}
+	
+	private void resize()
+	{
+		int lastSize = lista.length;
+		Object[] temp = new Object[lastSize + D_SIZE];
+		
+		for (int i = 0; i < lastSize; i++)
+			temp[i] = lista[i];
+		
+		lista = temp;
+	}
+
+}

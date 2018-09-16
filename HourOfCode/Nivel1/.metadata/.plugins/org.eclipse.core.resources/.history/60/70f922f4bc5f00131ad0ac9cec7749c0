@@ -1,0 +1,17 @@
+import java.util.ArrayList;
+
+public class Prueba {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+
+		ArrayList<Integer> array = new ArrayList<Integer>();
+		
+		array.add(0, 1);
+		
+	//	System.out.println(array.get(0));
+	}
+
+}

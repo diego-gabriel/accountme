@@ -1,0 +1,62 @@
+init module{
+	knowledge{
+		% assume there is enough room to put all blocks on the table;
+		% this is true up to 13 blocks in the Tower World.
+		clear(table) .
+       	clear(X) :- block(X), not(on(_, X)), not(holding(X)) .
+		
+		above(X,Y) :- on(X, Y) .
+		above(X,Y) :- on(X, Z), above(Z, Y) .
+		
+		tower([X]) :- on(X, table) .
+		tower([X, Y | T]) :- on(X, Y), tower([Y | T]) .
+	}
+	
+	% no initial beliefs about block configuration.
+	
+	goals{
+		 on(a,b), on(b,c), on(c,table) .
+	}
+	actionspec{
+		pickup(X) {
+		   pre{ clear(X), not(holding(_)) }
+		   post{ true }
+		}
+	}
+}
+
+ 
+	
+main module{
+	program{
+
+		% moving X on top of Y is a constructive move if that move results in X being in position.
+		#define constructiveMove(X, Y) a-goal( tower([X, Y | T]) ), bel( tower([Y | T]), clear(Y), (clear(X) ; holding(X)) ) .
+
+		% pick up a block if you can and want to.
+		if constructiveMove(X,Y) then adopt( holding(X) ).
+		
+	}
+}
+
+event module{
+	program{
+		% first, process percepts from Tower World environment.
+		% rules below assume full observability.
+		forall bel( block(X), not(percept(block(X))) ) do delete( block(X) ) .
+		forall bel( percept(block(X)), not(block(X)) ) do insert( block(X) ) .
+		
+		% rules for adopting the goal to hold a block in module with linear order.
+		% holding(X) is a *single instance goal* to maintain focus.
+		if not(goal( holding(X) )), not(bel( holding(Y) )) then adoptgoal.
+	}
+}
+
+module adoptgoal{
+	% order=linear: adopt at most one goal to hold a block at any one time.
+	% the gripper is limited and cannot hold more than one block.
+	program{
+		if a-goal( on(X,Y) ) then adopt( holding(X) ).
+%		if constructiveMove(X, Y) then adopt( holding(X) ) .
+	}
+}

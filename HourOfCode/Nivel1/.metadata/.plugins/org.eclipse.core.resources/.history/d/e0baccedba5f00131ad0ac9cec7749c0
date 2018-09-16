@@ -1,0 +1,51 @@
+
+public class LinkedList <T> implements Lista <T>{
+	
+	private Nodo<T> valor;
+	
+	public LinkedList()
+	{
+		valor = null;
+	}
+	
+	public void add(T obj)
+	{
+		if (valor == null)
+			valor = new Nodo<T>(obj);
+		else 
+			valor.add(obj);
+	}
+
+	@Override
+	public T get(int index) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int size() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public void insert(int index, T obj) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void erase(int index) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public boolean isEmpty() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+	
+	
+
+}

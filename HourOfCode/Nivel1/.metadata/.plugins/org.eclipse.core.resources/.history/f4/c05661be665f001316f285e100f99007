@@ -1,0 +1,19 @@
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+
+public class ArrayListTest {
+
+	@Test
+	public void test() {
+		ArrayList<Integer> array = new ArrayList<Integer>();
+		
+		array.add(1);
+		assertEquals(1, array.size());
+
+		array.add(10);
+		assertEquals(2, array.size());
+	}
+
+}

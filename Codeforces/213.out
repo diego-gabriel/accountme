@@ -1,0 +1,20 @@
+AAAJ: 1
+realizando: 1 en maquina: 2
+desbloqueada tarea: 2
+desbloqueada tarea: 3
+realizando: 2 en maquina: 1
+desbloqueada tarea: 3
+realizando: 3 en maquina: 1
+desbloqueada tarea: 4
+realizando: 4 en maquina: 1
+2 268435455
+AAAJ: 2
+realizando: 2 en maquina: 1
+desbloqueada tarea: 1
+realizando: 1 en maquina: 2
+desbloqueada tarea: 3
+realizando: 3 en maquina: 1
+desbloqueada tarea: 4
+realizando: 4 en maquina: 1
+3 2
+6

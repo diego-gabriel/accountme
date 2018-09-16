@@ -1,0 +1,45 @@
+import java.math.BigInteger;
+import java.util.Scanner;
+
+
+public class Labelmaker {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		Scanner scan = new Scanner(System.in);
+		
+		int nTest = scan.nextInt();
+		scan.nextLine();
+		
+		for (int test = 1; test <= nTest; test++)
+		{
+			String cad = scan.nextLine();
+			String[] arr = cad.split(" ");
+			
+			String alf = arr[0];
+			BigInteger num = new BigInteger(arr[1]);
+
+			int[] numCod = solve(num, alf.length());
+			
+			
+			System.out.println(alf);
+			System.out.println(num);
+			
+			
+			
+		}
+		
+		public int[] solve(BigInteger num , int base)
+		{
+			int[] res = new int[base];
+			
+			return res;
+		}
+		
+
+	}
+
+}

@@ -1,0 +1,31 @@
+leido
+retornado PARSER 10
+retornado PARSER 34
+retornado PARSER 37
+retornado parserPair 0 0
+retornado parserPair 0 1
+retornado parserPair 0 2
+retornado PARSER 118
+retornado PARSER 40
+retornado PARSER 17
+retornado PARSER 34
+retornado parserPair 1 0
+retornado parserPair 1 1
+retornado parserPair 1 2
+retornado PARSER 125
+retornado parserPair 0 0
+retornado parserPair 1 0
+retornado PARSER 175
+retornado parserPair 0 1
+retornado parserPair 1 1
+retornado PARSER 226
+retornado parserPair 0 2
+retornado parserPair 1 2
+retornado PARSER 297
+retornado parserPair 0 3
+retornado parserPair 1 3
+retornado PARSER 540
+parseado
+10 34 37 118
+40 17 34 125
+175 226 297 540

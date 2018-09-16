@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.Object\ salir()
+comment0.text=\r\n\ metodo\ que\ permite\ sacar\ un\ elemento\ del\r\n\ final\ de\ la\ cola\r\n\ @param\ nada\r\n\ @return\ el\ dato\ que\ se\ ha\ sacado\ del\ fin\ de\ la\ cola\r\n
+comment1.params=dato
+comment1.target=void\ meter(java.lang.Object)
+comment1.text=\r\n\ Metodo\ que\ permite\ ingresar\ un\ dato\ al\ frente\ de\ la\ coal\r\n\ @param\ dato\ el\ dato\ a\ ingresar\r\n\ @return\ cambiar\ el\ estado\ de\ la\ cola\r\n
+numComments=2
